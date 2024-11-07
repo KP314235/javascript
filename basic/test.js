@@ -1,13 +1,16 @@
-// console.log("Kishan Patel");
+const accountId = 345674
+let accountEmail = "pkishan065@gmail.com"
+var accountPassword ="12345678"
+accountCity = "Ahmedabad"
+console.log("Kishan Patel");
 
-function sum(number1, number2, name){
-    let plus=number1 * number2;
-    return plus;
-}
-console.log(sum(7, 8))
-const name = "Kishan Patel";
-function firstName(){
-    name = "test name";
-    return name;
-}
-console.log(firstName())
+// accountId= 1234567 //not allowed
+
+accountEmail = "hp@gmail.com"
+accountPassword = "8765342"
+accountCity="patan"
+
+
+
+console.log(accountId);
+console.table([accountId, accountEmail, accountPassword, accountCity])
