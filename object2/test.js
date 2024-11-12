@@ -16,12 +16,12 @@
  }
 
  const obj2 = {
-    name: "HP",
-    age: 35,
+    name1: "HP",
+    age1: 35,
     emailId: "hp31425@gmail.com",
-    contact: 9876543210
+    contact1: 9876543210
  }
 
- const obj3 = [...obj1, ...obj2];
+ const obj3 = {...obj1,...obj2};
 
  console.log(obj3);
