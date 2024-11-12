@@ -22,6 +22,6 @@
     contact1: 9876543210
  }
 
- const obj3 = {...obj1,...obj2};
+ const {emailId1: kp} = obj2;
 
- console.log(obj3);
+ console.log(kp);
