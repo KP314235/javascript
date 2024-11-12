@@ -11,14 +11,14 @@
  const obj1 = {
     name: "KP",
     age: 29,
-    emialId: "pkishan065@gmail.com",
+    emailId: "pkishan065@gmail.com",
     contact: 9909231425
  }
 
  const obj2 = {
     name1: "HP",
     age1: 35,
-    emailId: "hp31425@gmail.com",
+    emailId1: "hp31425@gmail.com",
     contact1: 9876543210
  }
 
